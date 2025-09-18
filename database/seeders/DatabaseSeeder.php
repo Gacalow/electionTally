@@ -47,6 +47,7 @@ class DatabaseSeeder extends Seeder
             BangaleSeeder::class,
             SalaSeeder::class,
             MadogoSeeder::class,
+            PoliticalPartiesSeeder::class,
         ]);
     }
 }
