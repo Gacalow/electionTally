@@ -74,6 +74,7 @@ class DatabaseSeeder extends Seeder
             PoliticalPartiesSeeder::class,
             PositionsSeeder::class,
             ElectionsSeeder::class,
+            RolesAndPermissionsSeeder::class,
         ]);
     }
 }
